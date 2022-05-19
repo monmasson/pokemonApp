@@ -1,0 +1,13 @@
+.ul{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-style: italic;
+    text-decoration-color: chartreuse;
+}
+.style{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-style: italic;
+    text-decoration-color: chartreuse;
+    font-size:x-large;
+    text-transform: capitalize;
+
+}
