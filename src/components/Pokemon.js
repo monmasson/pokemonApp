@@ -57,7 +57,7 @@ const Pokemon = ({ current }) => {
           It's species are:{current.species.name}
           <br></br>
           <br></br>
-          Find out how it looks follow the link => :{current.species.url}
+          Find out how it looks by following the link = :{current.species.url}
 
       </p>
       <p>
